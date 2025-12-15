@@ -1,4 +1,4 @@
-# MAPS: Mechatronic Autonomous Pilot System
+# MAPS: Mobile Autonomous Path-Following System
 
 An autonomous, touchless-activated, path-following robot that integrates line tracking, obstacle detection, and finish-line recognition. Designed for educational use and rapid prototyping with low-cost components and modular embedded control.
 
